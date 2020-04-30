@@ -13,7 +13,7 @@ import (
 	"github.com/docker/go-connections/nat"
 	goredis "github.com/go-redis/redis"
 	"github.com/phayes/freeport"
-	"github.com/syncromatics/go-kit/redis"
+	"github.com/syncromatics/go-kit/v2/redis"
 )
 
 var (

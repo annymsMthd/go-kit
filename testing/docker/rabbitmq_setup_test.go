@@ -3,7 +3,7 @@ package docker_test
 import (
 	"fmt"
 
-	"github.com/syncromatics/go-kit/testing/docker"
+	"github.com/syncromatics/go-kit/v2/testing/docker"
 )
 
 func ExampleSetupRabbitMQ() {

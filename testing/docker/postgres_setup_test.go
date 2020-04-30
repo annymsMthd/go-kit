@@ -1,7 +1,7 @@
 package docker_test
 
 import (
-	"github.com/syncromatics/go-kit/testing/docker"
+	"github.com/syncromatics/go-kit/v2/testing/docker"
 )
 
 func ExampleSetupPostgresDatabase() {

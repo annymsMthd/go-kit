@@ -9,7 +9,7 @@ import (
 
 	"github.com/docker/go-connections/nat"
 	"github.com/phayes/freeport"
-	"github.com/syncromatics/go-kit/database"
+	"github.com/syncromatics/go-kit/v2/database"
 
 	client "docker.io/go-docker"
 	"docker.io/go-docker/api/types"
